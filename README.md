@@ -1,4 +1,12 @@
-# Personal Details Registration Form - Complete Project
+# Personal Details Registration Form - Complete Project by Pathan Afnan Khan
+
+
+# My Project
+
+Here’s an image:
+
+![Alt text](my-photo.png)
+
 
 A professional full-stack registration form with age validation, built with React frontend and choice of Node.js or Django backend.
 
