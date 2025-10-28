@@ -1,4 +1,4 @@
-# Personal Details Registration Form - Complete Project by Pathan Afnan Khan
+# Personal Details Registration Form - Complete Project by me
 
 
 # My Project
